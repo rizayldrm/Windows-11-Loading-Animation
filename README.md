@@ -1,5 +1,5 @@
-# Windows-10-Loading-Animation
-  
+# Windows-11-Loading-Animation
+ 
 In this project, we created an example of the loading screen of windows using html and css.
 
 
