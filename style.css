@@ -84,14 +84,19 @@ body {
 
   p{
     position: absolute;
-    left: 45%;
     top: 47%;
+    left: 45%;
     color: #ffffff;
     font-size: 20px;
     font-family: sans-serif;
+    display: block;
+    text-align: center;
   }
 
-
+.cursor-wait{
+  cursor: wait;
+  display: block;
+}
 
 
 
